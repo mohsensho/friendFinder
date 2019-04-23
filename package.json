@@ -1,0 +1,25 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Run node js on your matchin\r  intall packages: express and body-parser",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Mohsen Shojaeifar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohsensho/friendFinder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mohsensho/friendFinder/issues"
+  },
+  "homepage": "https://github.com/mohsensho/friendFinder#readme"
+}
